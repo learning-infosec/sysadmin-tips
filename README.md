@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Gus</h1>
 <h3 align="center">A passionate SysAdmin/DevOps from Argentina.</h3>
 
 
