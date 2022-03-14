@@ -1,5 +1,5 @@
 <h3 align="center">A passionate SysAdmin/DevOps from Argentina.</h3>
-<h3 align="center">I will share some sysadmin tips</h3>
+<h3>I will share some sysadmin tips</h3>
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
