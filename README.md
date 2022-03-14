@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gus</h1>
 <h3 align="center">A passionate SysAdmin/DevOps from Argentina.</h3>
 
-- 🔭 Please read this [curated list of awesome information security resources](https://github.com/rmusser01/Infosec_Reference) 
-
-- 📫 Reach me **infosecpruebas@protonmail.com**
-
-- 📄 SysAdmin for +15 years
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
